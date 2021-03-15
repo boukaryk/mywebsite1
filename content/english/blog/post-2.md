@@ -6,6 +6,6 @@ image: images/showcase/tole.jpg
 title: tole and carreau.
 ---
 
-QWPNB sell de tole BAC simple and colour, tole 22 et 27, tole a souder.
-de toutes qualite.
-Il y'a n'a aussi de carraux de toute qualite.
+QWPNB sell different model of tole such as tole BAC, tole simple and colour, tole 22 et 27, tole a souder.
+
+There, you can find quality tole and carraux.

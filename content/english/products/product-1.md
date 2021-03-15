@@ -17,7 +17,7 @@ sizes:
 - ciment CPJ 45
 - ciment CPA 45
 - CIMFASO
-title: Ciment de qualite
+title: Quality Ciment
 ---
 
 We sell ciment all model, all quality at affordable price.

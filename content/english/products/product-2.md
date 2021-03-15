@@ -17,7 +17,7 @@ sizes:
 - aluzing
 - prelaque
 - profel
-title: Tole de qualite
+title: Quality tole
 ---
 
-Nous vous disposons des toles de divers marques en qualite a des prix abordable.
+We offert quality tole and diverse model in affordable price.

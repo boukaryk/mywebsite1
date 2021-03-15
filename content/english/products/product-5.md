@@ -11,7 +11,7 @@ images:
 price: "700.00"
 sizes:
 
-title: Fil et cable electrique
+title: Electric File and   cable
 ---
 
-wonderful Fil et cable electric to your  service.
+We have wonderful and cheapper  electric File and cable to your  service.

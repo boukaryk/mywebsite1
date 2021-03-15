@@ -11,7 +11,7 @@ images:
 - images/showcase/point.jpg
 price: 
 
-title: Carreau et autre materiel
+title: Carreau and others materials
 ---
 
-Carreau in quality.
+All kind and quality Carreau and others material in affordable price to you.

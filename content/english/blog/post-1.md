@@ -6,4 +6,4 @@ image: images/showcase/cpj5.jpg
 title: ciment.
 ---
 
-le Bon et meilleur ciment au Burkina Faso est le ciment CPA 45, suivit ds autre CIMFASO,CPJ,CIMBURKINA
+QWPNB sell all quality ciment in affordable price. There you can can buy  ciment CPA 45,CIMFASO,CPJ,CIMBURKINA

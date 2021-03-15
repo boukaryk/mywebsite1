@@ -13,7 +13,7 @@ images:
 price: "30.00"
 sizes:
 
-title: Fer a souder
+title: weld Iron
 ---
 
-Fer a souder with en quality and affordable price.
+There is many and quality weld Iron in cheaper price to our chest.

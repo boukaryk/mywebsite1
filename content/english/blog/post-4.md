@@ -6,5 +6,4 @@ image: images/showcase/logo.jpg
 title: Divers
 ---
 
-QWPNB vent:
--pienture 5kg,1kg de toute qualite, point de tole,point de 2 a 8, bourwette,serrures fil et cables electriques, disque a coupe et a soude, taenail
+QWPNB sell all kind of paint such as paint of 5kg,1kg. The sell also point of tole, point of 2 and point of 8, wheelbarrow,lock and  electric file and cables,cut and weld disk,pliers

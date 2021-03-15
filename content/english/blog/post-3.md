@@ -6,4 +6,4 @@ image: images/showcase/fer.jpg
 title: Fer a beton and fer a souder
 ---
 
-QWPNB dispose de fer a beton fer de 8, fer de 6, fer de 10, fer de 12, fer de 14 et de fer a souder: U de 40,Z de 40, ZH,ZH lourd, ZH deuxieme, fer pla de 30, fer plat de 18, tube carre de 20,25,30,40,50,60 tube rectangulaire 40/20,40/60,40/80 et de tube rond de 20,25,30,40,50,60 et bien d'autre tube
+QWPNB dispose to you concrete Iron, Iron of 8, Iron of 6, Iron of 10, Iron of 12, Iron of 14 and weld Iron such as: U of 40,Z of 40, ZH,double ZH, fer plat de 30, fer plat de 18,square tube of 20,25,30,40,50,60 rectangular tube of 40/20,40/60,40/80 round tube of 20,25,30,40,50,60 and so on.

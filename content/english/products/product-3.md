@@ -21,7 +21,7 @@ sizes:
 - Fer 14
 - Fer 16
 - Fer 25
-title: Toutes sortes de fer a beton
+title: All kind of concrete Iron
 ---
 
-Fer 6, Fer 8, Fer 10, Fer 12, Fer 14, Fer 16, Fer 25 de toutes marques et de toutes qualite a votre disponition
+We have to our chest plenty kind of concrete Iron such:Iron of 6, Iron of 8, Iron of 10, Iron of 12, Iron of 14, Iron of 16, Iron of 25.

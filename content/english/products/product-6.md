@@ -14,7 +14,7 @@ images:
 price: 
 sizes:
 
-title: Divers materiel 
+title: Divers materials 
 ---
 
-Materials diverse in quality to your disposition.
+We offert Plenty quality diverse materials to our customer.

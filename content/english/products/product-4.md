@@ -19,7 +19,7 @@ sizes:
 - Anti-rouille
 - Fom
 - Fom
-title: Pientute de toute qualite
+title: Quality paint
 ---
 
-Quality Pienture from all model  to affordable price.
+Quality paint from all model  and affordable price.
