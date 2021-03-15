@@ -10,8 +10,7 @@ images:
 - images/showcase/souder1.jpg
 - images/showcase/souder3.jpg
 - images/showcase/souder4.jpg
-price: "5.41
-"
+price: "5.41"
 sizes:
 
 title: weld Iron
