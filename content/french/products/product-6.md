@@ -1,9 +1,12 @@
 ---
 colors:
+-Bleu
+-Green
+-Orange
 
 date: "2019-10-17T11:22:16+06:00"
 description: this is meta description
-discount_price: "Prix different"
+discount_price: "25"
 draft: false
 images:
 - images/showcase/bourwette2.jpg
@@ -11,7 +14,7 @@ images:
 - images/showcase/serrure1.jpg
 - images/showcase/serrure2.jpg
 
-price: 
+price: "28.33"
 sizes:
 
 title: Divers materiel 

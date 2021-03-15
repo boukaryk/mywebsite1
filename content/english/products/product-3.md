@@ -5,14 +5,14 @@ colors:
 - gray
 date: "2019-10-17T11:22:16+06:00"
 description: this is meta description
-discount_price: "1800.00"
+discount_price: "3.3"
 draft: false
 images:
 - images/showcase/fer.jpg
 - images/showcase/fer12.jpg
 - images/showcase/fer8.jpg
 - images/showcase/fer16.jpg
-price: "2000.00"
+price: "4.00"
 sizes:
 - Fer 6
 - Fer 8

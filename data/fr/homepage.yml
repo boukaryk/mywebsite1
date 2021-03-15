@@ -103,7 +103,7 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Materiel Review"
+  title : "Value proposition"
   testimonial_item:
     # testimonial item loop
     - name : "Boukary KABORE"

@@ -4,6 +4,7 @@ banner:
   title : "QWPN Products"
   content : "Vent de materiel de construction et divers "
   image : "images/fer8.jpg"
+  image : "images/logo.jpg"
   button:
    enable : true
    label : "Browse All Products"
@@ -68,6 +69,7 @@ about_product:
   items:
     # about product item loop
     - image : "images/showcase/point.jpg"
+    - image : "images/showcase/pienture3.jpg"
       title : "Quality"
       content : "High quality product"
       button:
@@ -77,6 +79,7 @@ about_product:
         
     # about product item loop
     - image : "images/showcase/carreau2.jpg"
+     - image : "images/showcase/souder3.jpg"
       title : "Variety of material"
       content : "Disponibility of all kind of material"
       button:
@@ -103,7 +106,7 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Materiel Review"
+  title : "Value proposition"
   testimonial_item:
     # testimonial item loop
     - name : "Boukary KABORE"
