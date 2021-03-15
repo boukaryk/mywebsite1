@@ -1,23 +1,19 @@
 ---
 colors:
-- black
-- white
-- gray
+
 date: "2019-10-17T11:22:16+06:00"
 description: this is meta description
 discount_price: "25.00"
 draft: false
 images:
-- images/showcase/showcase-8.png
-- images/showcase/showcase-6.png
-- images/showcase/showcase-2.png
-- images/showcase/showcase-1.png
+- images/showcase/souder2.png
+- images/showcase/souder1.jpg
+- images/showcase/souder3.jpg
+- images/showcase/souder4.jpg
 price: "30.00"
 sizes:
-- small
-- medium
-- large
-title: Oppo Watch
+
+title: Fer a souder
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Fer a souder de toutes qualites a de prix abordable.

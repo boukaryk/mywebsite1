@@ -2,22 +2,24 @@
 colors:
 - black
 - white
-- gray
+- orange
 date: "2019-10-17T11:22:16+06:00"
 description: this is meta description
-discount_price: "25.00"
+discount_price: "5000.00"
 draft: false
 images:
-- images/showcase/showcase-4.png
-- images/showcase/showcase-2.png
-- images/showcase/showcase-3.png
-- images/showcase/showcase-1.png
-price: "30.00"
+- images/showcase/pienture.jpg
+- images/showcase/pienture3.jpg
+- images/showcase/pienture5.jpg
+- images/showcase/pienture6.jpg
+- images/showcase/fom6.jpg
+- images/showcase/fom3.jpg
+price: "6000.00"
 sizes:
-- small
-- medium
-- large
-title: Motorola Watch
+- Anti-rouille
+- Fom
+- Fom
+title: Pientute de toute qualite
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Pienture de toutes marque et de toutes qualites en de prix abordable.

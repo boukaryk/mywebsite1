@@ -5,19 +5,23 @@ colors:
 - gray
 date: "2019-10-17T11:22:16+06:00"
 description: this is meta description
-discount_price: "25.00"
+discount_price: "1800.00"
 draft: false
 images:
-- images/showcase/showcase-3.png
-- images/showcase/showcase-2.png
-- images/showcase/showcase-1.png
-- images/showcase/showcase-4.png
-price: "30.00"
+- images/showcase/fer.jpg
+- images/showcase/fer12.jpg
+- images/showcase/fer8.jpg
+- images/showcase/fer16.jpg
+price: "2000.00"
 sizes:
-- small
-- medium
-- large
-title: Xiaomi Watch
+- Fer 6
+- Fer 8
+- Fer 10
+- Fer 12
+- Fer 14
+- Fer 16
+- Fer 25
+title: Toutes sortes de fer a beton
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Fer 6, Fer 8, Fer 10, Fer 12, Fer 14, Fer 16, Fer 25 de toutes marques et de toutes qualite a votre disponition

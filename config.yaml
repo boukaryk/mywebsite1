@@ -13,7 +13,7 @@ params:
   contact_form_action: '#'
   currency: $
   description: This is meta description
-  logo: images/logo.png
+  logo: images/logo.jpg
   logo_width: 100px
   plugins:
     css:
@@ -68,15 +68,13 @@ menu:
 Languages:
   en:
     contentDir: content/english
-    copyright: Designed By [Themefisher](https://themefisher.com/) & Developed By
-      [Gethugothemes](https://gethugothemes.com/)
+    copyright: Designed & Developed By [Boukary KABORE](boukary757@gmail.com)
     languageCode: en-us
     languageName: En
     weight: 1
   fr:
     contentDir: content/french
-    copyright: Designed By [Themefisher](https://themefisher.com/) & Developed By
-      [Gethugothemes](https://gethugothemes.com/)
+    copyright: Designed & Developed By [Boukary KABORE](boukary757@gmail.com) 
     languageCode: fr-fr
     languageName: Fr
     weight: 2

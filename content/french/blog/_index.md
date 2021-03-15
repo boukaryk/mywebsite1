@@ -1,5 +1,5 @@
 ---
 description: this is a meta description
 draft: false
-title: Our Latest Post
+title: Nos derniers Postes
 ---

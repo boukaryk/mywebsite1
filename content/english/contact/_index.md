@@ -2,21 +2,20 @@
 description: this is a meta description
 draft: false
 office:
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna
-  email: demo@email.com
-  location: Dhaka, Bangladedsh
-  mobile: "0124857985320"
+  content: Iron Mongery wendpulum Noog Be Ziir
+  email: boukary757@gmail.com
+  location: sector 3, near the new gar station face to shell station
+  mobile: "+226 70340602"
   title: Central Office
 opennig_hour:
   day_time:
-  - 'Monday: 9:00 – 19:00'
-  - 'Tuesday: 9:00 – 19:00'
-  - 'Wednesday: 9:00 – 19:00'
-  - 'Thursday: 9:00 – 19:00'
-  - 'Friday: 9:00 – 19:00'
-  - 'Saturday: 9:00 – 19:00'
-  - 'sunday: 9:00 – 19:00'
+  - 'Monday: 7:00 – 18:30'
+  - 'Tuesday: 7:00 – 18:30'
+  - 'Wednesday: 7:00 – 18:30'
+  - 'Thursday: 7:00 – 18:30'
+  - 'Friday: 7:00 – 18:30'
+  - 'Saturday: 7:00 – 18:30'
+  - 'sunday: 7:00 – 14:30'
   title: Opening Hours
 title: Contact
 ---

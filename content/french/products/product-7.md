@@ -1,23 +1,17 @@
 ---
 colors:
-- black
-- white
-- gray
 date: "2019-10-17T11:22:16+06:00"
 description: this is meta description
-discount_price: "25.00"
+discount_price: "Divers prix"
 draft: false
 images:
-- images/showcase/showcase-7.png
-- images/showcase/showcase-5.png
-- images/showcase/showcase-3.png
-- images/showcase/showcase-4.png
-price: "30.00"
-sizes:
-- small
-- medium
-- large
-title: OnePlus Watch
+- images/showcase/carreau.jpg
+- images/showcase/carreau2.jpg
+- images/showcase/tubegorger.jpg
+- images/showcase/point.jpg
+price: 
+
+title: Carreau et autre materiel
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Carreau de qualite.
