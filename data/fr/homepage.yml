@@ -1,9 +1,9 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "MQWPNB"
-  content : "Vent de materiel de construction et divers"
-  image : "images/tube.jpg"
+  title : "QWPN Products"
+  content : "Vent de materiel de construction et divers "
+  image : "images/fer8.jpg"
   button:
    enable : true
    label : "Browse All Products"
@@ -13,77 +13,72 @@ banner:
 features:
   enable : true
   title : "Our Core Features"
-  image : "images/tubegorger.jpg"
+  image : "images/peinture3.jpg"
 
   # feature at the left of the image
   left_side:
     # feature item loop
   - title : "Smooth Touch"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Short time and Free delivery and possibility to use before baying. Also there is possibility to pay litle buy litle utile the somme of you material hit"
     
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Is there possibility to return product?"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "There is possibility to change material if there is remain or if the materials that you buy is not in carrelationtion the work you whish to do."
     
     # feature item loop
   - title : "Easy Pricing"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Material at QWPN are cheaper and very high quality"
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Type of customers"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "The price of products are function to the type of the the client"
 
     # feature item loop
-  - title : "Elegant Design"
+  - title : "customer relationship"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Clients are well recieve at the chest of the company. we have high connection with our customer"
 
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Company's Team"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Competent team in is chest. The team is formed by managers,designers,developers,marketers"
 
 
 ############################# promo ############################
 promo:
   enable : true
   image : "images/fom6.jpg"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+  title : "Designed by professional"
+  content : "The company is near the new gar station, face to the station shell.
             <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+            It has an annexe 100m from national 21 near Burkina market"
 
 
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "Why Choose our product"
   items:
     # about product item loop
     - image : "images/showcase/point.jpg"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      title : "Quality"
+      content : "High quality product"
       button:
         enable : false
         label : "Check Features"
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/tole.jpg"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/showcase/carreau2.jpg"
+      title : "Variety of material"
+      content : "Disponibility of all kind of material"
       button:
         enable : false
         label : "Check Features"
@@ -93,27 +88,36 @@ about_product:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "View All Products"
 
 
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/call-to-action.jpg"
+  bg_image : "images/peinture3.jpg"
   title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  content : "Make subscription"
   placeholder : "Your Email Address Here"
 
 
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Building materiel"
+  title : "Materiel Review"
   testimonial_item:
-     
     # testimonial item loop
     - name : "Boukary KABORE"
-      designation : "Student, BIT"
+      designation : "developer,Student at BIT"
+      image : "images/logo.jpg"
+      content : "  We exist to sastify our customer. customer is king in our environment  "
+      
+    # testimonial item loop
+    - name : "Boukary KABORE"
+      designation : "developer,Student at BIT"
       image : "images/pict6.jpg"
-      content : "Sudent at Burkina Institute of Technology located at KOudougou"
-     
+      content : "For those who know what they want to realize but don't know what material to year, we have an equipe to lead them"
+    # testimonial item loop
+    - name : "Boukary KABORE"
+      designation : "developer,Student at BIT"
+      image : "images/pict6.jpg"
+      content : "QWPN is one of the best Iron mongery in Koudougou ."
