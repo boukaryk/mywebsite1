@@ -79,7 +79,7 @@ about_product:
         
     # about product item loop
     - image : "images/showcase/carreau2.jpg"
-     - image : "images/showcase/souder3.jpg"
+    - image : "images/showcase/souder3.jpg"
       title : "Variety of material"
       content : "Disponibility of all kind of material"
       button:
