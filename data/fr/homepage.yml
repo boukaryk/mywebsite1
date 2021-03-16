@@ -4,7 +4,6 @@ banner:
   title : "QWPN Products"
   content : "Vent de materiel de construction et divers "
   image : "images/fer8.jpg"
-  image : "images/logo.jpg"
   button:
    enable : true
    label : "Browse All Products"
@@ -14,7 +13,7 @@ banner:
 features:
   enable : true
   title : "Our Core Features"
-  image : "images/peinture3.jpg"
+  image : "images/souder3.jpg"
 
   # feature at the left of the image
   left_side:
@@ -68,7 +67,7 @@ about_product:
   title : "Why Choose our product"
   items:
     # about product item loop
-    - image : "images/showcase/point.jpg"
+    - image : "images/showcase/logo.jpg"
     - image : "images/showcase/pienture3.jpg"
       title : "Quality"
       content : "High quality product"
@@ -79,7 +78,6 @@ about_product:
         
     # about product item loop
     - image : "images/showcase/carreau2.jpg"
-    - image : "images/showcase/souder3.jpg"
       title : "Variety of material"
       content : "Disponibility of all kind of material"
       button:
