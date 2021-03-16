@@ -15,7 +15,7 @@ images:
 price: "11.00"
 sizes:
 - ciment CPJ 45
-- ciment CPA 45
+- ciment CPA 4
 - CIMFASO
 title: Ciment de qualite
 ---
