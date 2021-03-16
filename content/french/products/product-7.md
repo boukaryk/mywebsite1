@@ -10,7 +10,6 @@ images:
 - images/showcase/tubegorger.jpg
 - images/showcase/point.jpg
 price: "11"
-
 title: Carreau et autre materiel
 ---
 

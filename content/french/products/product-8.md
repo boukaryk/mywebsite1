@@ -1,6 +1,5 @@
 ---
 colors:
-
 date: "2019-10-17T11:22:16+06:00"
 description: this is meta description
 discount_price: "5.00"
